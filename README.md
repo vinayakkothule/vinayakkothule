@@ -7,8 +7,9 @@
 
   <h1>Hi, I'm <a href="https://github.com/vinayakkothule">Vinayak Kothule</a> 👋</h1>
 
-  <!-- Typing headline (SVG) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Drupal+Specialist;Full‑Stack+Developer;React+%2F+Node.js+%2F+AWS;Clean+Architecture+%7C+Performance+%7C+Security" alt="Typing roles" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&center=true&vCenter=true&width=650&lines=Senior%20Software%20Engineer;Drupal%20Specialist;Full-Stack%20Developer;React%20%2F%20Node.js%20%2F%20AWS;Clean%20Architecture%20%7C%20Performance%20%7C%20Security" alt="Typing roles" />
+
 
   <!-- Badges -->
   <p>
